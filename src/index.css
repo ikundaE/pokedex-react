@@ -1,0 +1,15 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+  color: #000;
+  text-shadow: 2px 2px 4px #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 1em;
+  color: #333;
+  text-shadow: 1px 1px 2px #ccc;
+  margin-bottom: 1em;
+}

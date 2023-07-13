@@ -1,0 +1,15 @@
+.main {
+    display: "flex";
+    justify-Content: "center";
+    align-Items: "center";
+    height: "100vh"
+}
+.input {
+    width: "200px";
+    height: "40px"
+}
+.pokedex {
+    width: "400px";
+    height: "400px";
+    border: "1px solid black"
+}
